@@ -32,6 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
+![FireShot Capture 005 - article-preview-component-master - oonelson github io](https://github.com/OONelson/article-preview-component-master/assets/114698224/861db1b2-b82d-4dbf-9845-3799f832da1e)
 
 
 ### Links
+https://oonelson.github.io/article-preview-component-master/
